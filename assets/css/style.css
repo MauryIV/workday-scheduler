@@ -1,0 +1,28 @@
+* {
+  background-color: lightgoldenrodyellow;
+}
+
+.container {
+  margin: 25px auto;
+}
+
+header {
+  background-color: lightcyan;
+  border-bottom: .8rem solid black;
+}
+
+h1,
+h3,
+h4 {
+  background-color: lightcyan;
+}
+
+.time,
+.save-button {
+  background-color: lightcyan;
+  border: solid black;
+}
+
+.save-button:hover {
+  background-color: rgb(186, 255, 255);
+}
